@@ -12,7 +12,7 @@
     "next": "12.0.3",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "tslib": "2.1.0",
+    "tslib": "^2.3.1",
     "web3": "^1.6.1",
     "@rarible/sdk": "~0.8.7",
     "@rarible/sdk-wallet-connector": "^0.8.6",
